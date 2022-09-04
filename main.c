@@ -4,6 +4,7 @@ Initial Function()
 {
   //Sample Code
   print(feature2)
+  print(feature1)
 }
 
 Initial Security()
